@@ -1,0 +1,29 @@
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\obj\Debug\Taki Server.csprojAssemblyReference.cache
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\obj\Debug\newServer.Form1.resources
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\obj\Debug\Taki_Server.Properties.Resources.resources
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\obj\Debug\Taki Server.csproj.GenerateResource.cache
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\obj\Debug\Taki Server.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\bin\Debug\Taki Server.exe.config
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\bin\Debug\Taki Server.exe
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\bin\Debug\Taki Server.pdb
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\obj\Debug\Taki Server.exe
+C:\Users\OWNER\source\repos\Taki Server\Taki Server\obj\Debug\Taki Server.pdb
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\obj\Debug\Taki Server.csprojAssemblyReference.cache
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\obj\Debug\newServer.Form1.resources
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\obj\Debug\Taki_Server.Properties.Resources.resources
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\obj\Debug\Taki Server.csproj.GenerateResource.cache
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\obj\Debug\Taki Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\obj\Debug\Taki Server.exe
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\obj\Debug\Taki Server.pdb
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\bin\Debug\Taki Server.exe.config
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\bin\Debug\Taki Server.exe
+C:\Users\user\Documents\מי הגבר\Taki Server\Taki Server\bin\Debug\Taki Server.pdb
+C:\Users\Raz\Desktop\TakiServer\Taki Server\bin\Debug\Taki Server.exe.config
+C:\Users\Raz\Desktop\TakiServer\Taki Server\bin\Debug\Taki Server.exe
+C:\Users\Raz\Desktop\TakiServer\Taki Server\bin\Debug\Taki Server.pdb
+C:\Users\Raz\Desktop\TakiServer\Taki Server\obj\Debug\Taki Server.csprojAssemblyReference.cache
+C:\Users\Raz\Desktop\TakiServer\Taki Server\obj\Debug\newServer.Form1.resources
+C:\Users\Raz\Desktop\TakiServer\Taki Server\obj\Debug\Taki_Server.Properties.Resources.resources
+C:\Users\Raz\Desktop\TakiServer\Taki Server\obj\Debug\Taki Server.csproj.GenerateResource.cache
+C:\Users\Raz\Desktop\TakiServer\Taki Server\obj\Debug\Taki Server.exe
+C:\Users\Raz\Desktop\TakiServer\Taki Server\obj\Debug\Taki Server.pdb

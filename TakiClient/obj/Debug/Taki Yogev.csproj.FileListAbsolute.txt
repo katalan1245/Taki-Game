@@ -1,0 +1,36 @@
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\bin\Debug\Taki Yogev.exe.config
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\bin\Debug\Taki Yogev.exe
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\bin\Debug\Taki Yogev.pdb
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.csprojAssemblyReference.cache
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\Taki_Yogev.Form1.resources
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\newClient.frmConnect.resources
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\Taki_Yogev.Properties.Resources.resources
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.csproj.GenerateResource.cache
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.exe
+C:\Users\OWNER\source\repos\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.pdb
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.csprojAssemblyReference.cache
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki_Yogev.Form1.resources
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\newClient.frmConnect.resources
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki_Yogev.FrmInstructions.resources
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki_Yogev.frmOpen.resources
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki_Yogev.Properties.Resources.resources
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.csproj.GenerateResource.cache
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.exe
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\obj\Debug\Taki Yogev.pdb
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\bin\Debug\Taki Yogev.exe.config
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\bin\Debug\Taki Yogev.exe
+C:\Users\user\Documents\מי הגבר\Taki Yogev\Taki Yogev\bin\Debug\Taki Yogev.pdb
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki Yogev.csprojAssemblyReference.cache
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki_Yogev.Form1.resources
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\newClient.frmConnect.resources
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki_Yogev.FrmInstructions.resources
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki_Yogev.frmOpen.resources
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki_Yogev.Properties.Resources.resources
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki Yogev.csproj.GenerateResource.cache
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki Yogev.exe
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\obj\Debug\Taki Yogev.pdb
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\bin\Debug\Taki Yogev.exe.config
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\bin\Debug\Taki Yogev.exe
+C:\Users\Raz\Desktop\TakiClient\Taki Yogev\bin\Debug\Taki Yogev.pdb

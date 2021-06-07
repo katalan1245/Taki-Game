@@ -1,0 +1,12 @@
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.csprojAssemblyReference.cache
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.FrmUser.resources
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.FrmConnect.resources
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.FrmInstructions.resources
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.FrmOpen.resources
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.csproj.GenerateResource.cache
+C:\Users\Raz\Desktop\Taki\TakiClient\bin\Debug\TakiClient.exe.config
+C:\Users\Raz\Desktop\Taki\TakiClient\bin\Debug\TakiClient.exe
+C:\Users\Raz\Desktop\Taki\TakiClient\bin\Debug\TakiClient.pdb
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.Properties.Resources.resources
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.exe
+C:\Users\Raz\Desktop\Taki\TakiClient\obj\Debug\TakiClient.pdb

@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87746BDB-78E5-4CFC-A6C8-230F79CB454A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TakiClient</RootNamespace>
+    <AssemblyName>TakiClient</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllPlayer.cs" />
+    <Compile Include="Cards.cs" />
+    <Compile Include="CardImage.cs" />
+    <Compile Include="deck.cs" />
+    <Compile Include="FrmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUser.Designer.cs">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConnect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConnect.Designer.cs">
+      <DependentUpon>FrmConnect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInstructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInstructions.Designer.cs">
+      <DependentUpon>FrmInstructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOpen.Designer.cs">
+      <DependentUpon>FrmOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerData.cs" />
+    <EmbeddedResource Include="FrmUser.resx">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConnect.resx">
+      <DependentUpon>FrmConnect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInstructions.resx">
+      <DependentUpon>FrmInstructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOpen.resx">
+      <DependentUpon>FrmOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\3EC8D1B3-890C-4035-AC0C-F2769B3CC183.jpg" />
+    <None Include="Resources\Back2.png" />
+    <None Include="Resources\BackGround.jpg" />
+    <None Include="Resources\b_1.png" />
+    <None Include="Resources\b_10_dir.png" />
+    <None Include="Resources\b_11_plus.png" />
+    <None Include="Resources\b_12_stop.png" />
+    <None Include="Resources\b_13_taki.png" />
+    <None Include="Resources\b_2.png" />
+    <None Include="Resources\b_3.png" />
+    <None Include="Resources\b_4.png" />
+    <None Include="Resources\b_5.png" />
+    <None Include="Resources\b_6.png" />
+    <None Include="Resources\b_7.png" />
+    <None Include="Resources\b_8.png" />
+    <None Include="Resources\b_9.png" />
+    <None Include="Resources\c_14_change.png" />
+    <None Include="Resources\g_1.png" />
+    <None Include="Resources\g_10_dir.png" />
+    <None Include="Resources\g_11_plus.png" />
+    <None Include="Resources\g_12_stop.png" />
+    <None Include="Resources\g_13_taki.png" />
+    <None Include="Resources\g_2.png" />
+    <None Include="Resources\g_3.png" />
+    <None Include="Resources\g_4.png" />
+    <None Include="Resources\g_5.png" />
+    <None Include="Resources\g_6.png" />
+    <None Include="Resources\g_7.png" />
+    <None Include="Resources\g_8.png" />
+    <None Include="Resources\g_9.png" />
+    <None Include="Resources\IMG_3435.jpg" />
+    <None Include="Resources\instructions.png" />
+    <None Include="Resources\llllll.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\menu.png" />
+    <None Include="Resources\pic2.jpg" />
+    <None Include="Resources\pic3.jpg" />
+    <None Include="Resources\picInstructions.jpg" />
+    <None Include="Resources\picOpen.jpg" />
+    <None Include="Resources\r_1.png" />
+    <None Include="Resources\r_10_dir.png" />
+    <None Include="Resources\r_11_plus.png" />
+    <None Include="Resources\r_12_stop.png" />
+    <None Include="Resources\r_13_taki.png" />
+    <None Include="Resources\r_2.png" />
+    <None Include="Resources\r_3.png" />
+    <None Include="Resources\r_4.png" />
+    <None Include="Resources\r_5.png" />
+    <None Include="Resources\r_6.png" />
+    <None Include="Resources\r_7.png" />
+    <None Include="Resources\r_8.png" />
+    <None Include="Resources\r_9.png" />
+    <None Include="Resources\y_1.png" />
+    <None Include="Resources\y_10_dir.png" />
+    <None Include="Resources\y_11_plus.png" />
+    <None Include="Resources\y_12_stop.png" />
+    <None Include="Resources\y_13_taki.png" />
+    <None Include="Resources\y_2.png" />
+    <None Include="Resources\y_3.png" />
+    <None Include="Resources\y_4.png" />
+    <None Include="Resources\y_5.png" />
+    <None Include="Resources\y_6.png" />
+    <None Include="Resources\y_7.png" />
+    <None Include="Resources\y_8.png" />
+    <None Include="Resources\y_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\Image1.png" />
+    <Content Include="Properties\Image2.png" />
+    <Content Include="Properties\Image3.png" />
+    <Content Include="Resources\back_card.png" />
+    <None Include="Resources\current_player.png" />
+    <None Include="Resources\last_card.png" />
+    <None Include="Resources\close_taki.png" />
+    <None Include="Resources\take_card.png" />
+    <None Include="Resources\change_color.png" />
+    <None Include="Resources\drop_card.png" />
+    <None Include="Resources\left_arrow.png" />
+    <None Include="Resources\right_arrow.png" />
+    <None Include="Resources\logout_button.png" />
+    <None Include="Resources\login_button.png" />
+    <None Include="Resources\login.bmp" />
+    <None Include="Resources\C_14_taki.png" />
+    <None Include="Resources\mainbg.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

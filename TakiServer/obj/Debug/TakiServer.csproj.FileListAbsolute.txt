@@ -1,0 +1,9 @@
+C:\Users\Raz\Desktop\Taki\TakiServer\bin\Debug\Taki Server.exe.config
+C:\Users\Raz\Desktop\Taki\TakiServer\bin\Debug\Taki Server.exe
+C:\Users\Raz\Desktop\Taki\TakiServer\bin\Debug\Taki Server.pdb
+C:\Users\Raz\Desktop\Taki\TakiServer\obj\Debug\TakiServer.csprojAssemblyReference.cache
+C:\Users\Raz\Desktop\Taki\TakiServer\obj\Debug\TakiServer.Form1.resources
+C:\Users\Raz\Desktop\Taki\TakiServer\obj\Debug\Taki_Server.Properties.Resources.resources
+C:\Users\Raz\Desktop\Taki\TakiServer\obj\Debug\TakiServer.csproj.GenerateResource.cache
+C:\Users\Raz\Desktop\Taki\TakiServer\obj\Debug\Taki Server.exe
+C:\Users\Raz\Desktop\Taki\TakiServer\obj\Debug\Taki Server.pdb
